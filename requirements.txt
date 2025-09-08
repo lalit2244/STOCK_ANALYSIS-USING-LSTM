@@ -1,0 +1,12 @@
+streamlit
+yfinance
+pandas
+numpy
+plotly
+matplotlib
+seaborn
+tensorflow
+scikit-learn
+ta
+textblob
+newsapi-python
